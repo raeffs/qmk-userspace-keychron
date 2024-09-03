@@ -1,7 +1,6 @@
 {
     "userspace_version": "1.0",
     "build_targets": [
-        ["keychron/v4/ansi", "raeffs"],
-        ["boardsource/lulu/rp2040", "raeffs"]
+        ["keychron/v4_max/ansi", "raeffs"]
     ]
 }
